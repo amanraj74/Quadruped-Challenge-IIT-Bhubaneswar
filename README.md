@@ -17,6 +17,9 @@
 
 ---
 
+## DEMO VIDEO - https://drive.google.com/file/d/1ORukveOnZd70FjRoUuBOI0U7UjUGjKMI/view?usp=sharing
+
+
 ## 📖 Overview
 
 A sophisticated autonomous navigation system developed for the **Quadruped Challenge 2025** at IIT Bhubaneswar. This project implements precise trajectory control for quadruped robots, featuring both square and circular path patterns with high-accuracy execution in a simulated environment, along with intelligent obstacle avoidance capabilities.
