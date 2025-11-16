@@ -17,7 +17,6 @@
 
 ---
 
-## DEMO VIDEO - https://drive.google.com/file/d/1ORukveOnZd70FjRoUuBOI0U7UjUGjKMI/view?usp=sharing
 
 
 ## 📖 Overview
