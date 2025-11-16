@@ -209,7 +209,7 @@ ros2 launch spot_challenge demo.launch.py
 - Goal-seeking behavior with intelligent path planning
 - Stuck detection and recovery mechanisms
 
-> 📹 **Full Demo Videos**: https://drive.google.com/file/d/1ORukveOnZd70FjRoUuBOI0U7UjUGjKMI/view?usp=sharing
+> 
 
 ---
 
